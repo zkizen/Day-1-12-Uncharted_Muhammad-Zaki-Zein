@@ -21,7 +21,7 @@ Dokumentasi lengkap kegiatan workshop terdapat pada bagian berikut.
 ## Dokumentasi Workshop Day 1
 
 ![Dokumentasi](poto/IMG_20261107_143609_021.jpg)
-![TampilanAplikasi](poto/Screenshot 2026-11-07 190229.png)
+![TampilanAplikasi](poto/apk.png)
 
 ### 1. Rangkuman Materi
 
